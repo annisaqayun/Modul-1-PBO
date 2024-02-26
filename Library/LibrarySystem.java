@@ -1,14 +1,9 @@
-/**
- *
- * @author: aniss
- */
-
 import java.util.Scanner;
 
 public class LibrarySystem {
     private static User[] users = {
-            new Admin("admin", "admin"),
-            new Student("student", "student", "202310370311113")
+            new Admin("anis", "annisa16"),
+            new Student("annisaqayun", "annisa1608", "202310370311113")
     };
 
     public static void main(String[] args) {
